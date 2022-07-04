@@ -6,7 +6,7 @@ import {
   UilSun,
   UilSunset,
   UilTemperaturePlus,
-  UilTemperatureEmpty
+  UilTemperatureEmpty,
 } from "@iconscout/react-unicons";
 import { formatToLocalTime, iconUrlFromCode } from "../services/weatherService";
 

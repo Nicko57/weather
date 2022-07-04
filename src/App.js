@@ -41,9 +41,8 @@ function App() {
   };
 
   return (
-    <div
+    <div className="container"
       style={{backgroundImage: `url(${formatBackground()})`}}
-      className={`bg-cover mx-auto max-w-screen-md mt-4 py-5 px-32 bg-gradient-to-br shadow-xl shadow-gray-400 `}
     >
       <TopButtons setQuery={setQuery} />
       <Inputs setQuery={setQuery} units={units} setUnits={setUnits} />
