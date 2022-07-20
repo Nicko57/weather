@@ -6,6 +6,7 @@
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
   <li><a href="https://expressjs.com">Express</a></li>
+  <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
 </ul>
 
 ## ⚙️ Requirements
